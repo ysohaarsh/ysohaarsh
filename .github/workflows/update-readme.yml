@@ -1,0 +1,36 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: "7 3 * * *" # daily, 03:07 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/update-readme.yml"]
+
+permissions: {}
+
+concurrency:
+  group: update-readme
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      # Keeps the checkout credentials because this job pushes the refreshed README.
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Refresh recent repos
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: scripts/update-recent.sh
+      - name: Commit if changed
+        run: |
+          if git diff --quiet README.md; then echo "No changes."; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "docs: refresh recently active repos"
+          git push

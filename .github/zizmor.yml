@@ -1,0 +1,5 @@
+rules:
+  artipacked:
+    ignore:
+      # Pushes the refreshed README, so it keeps the checkout credentials.
+      - update-readme.yml
