@@ -16,12 +16,12 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [ppe_detection](https://github.com/ysohaarsh/ppe_detection) · When tech meets safety! ⚙️🛡️ My latest project is a real-time PPE detection system powered by YOLO. Inspired b
-- [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom — an original pixel platformer inside an original handheld-inspired web console (Type
-- [portfolio-2d-retro](https://github.com/ysohaarsh/portfolio-2d-retro) · Personal portfolio website
-- [hospital_management_system](https://github.com/ysohaarsh/hospital_management_system) · WP PROJECT: A web-based Hospital Management System built using Node.js, Express, MySQL, and EJS templates.
-- [yonex-racket-price](https://github.com/ysohaarsh/yonex-racket-price) · 
-- [Certificate](https://github.com/ysohaarsh/Certificate) · project html
+- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
+- [hospital_management_system](https://github.com/ysohaarsh/hospital_management_system) · Web-based hospital management system built with Node.js, Express, MySQL and EJS templates.
+- [cosmos-app-prototype](https://github.com/ysohaarsh/cosmos-app-prototype) · High-fidelity Cosmos app prototype generated autonomously by Antigravity (Google DeepMind), as a test of agent
+- [Certificate](https://github.com/ysohaarsh/Certificate) · Final project for a web development certificate course: an HTML and CSS personal page.
+- [yonex-racket-price](https://github.com/ysohaarsh/yonex-racket-price) · Flipkart vs Amazon.in price comparison for 41 Yonex badminton rackets, with stackable bank offers and an effec
+- [Python-project-college](https://github.com/ysohaarsh/Python-project-college) · Restaurant management system with a Tkinter GUI, built as a college Python project.
 <!-- recent:end -->
 
 ### Tools I use
