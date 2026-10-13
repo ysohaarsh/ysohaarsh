@@ -16,12 +16,12 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
+- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
 - [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
+- [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
 - [hospital_management_system](https://github.com/ysohaarsh/hospital_management_system) · Web-based hospital management system built with Node.js, Express, MySQL and EJS templates.
 - [cosmos-app-prototype](https://github.com/ysohaarsh/cosmos-app-prototype) · High-fidelity Cosmos app prototype generated autonomously by Antigravity (Google DeepMind), as a test of agent
 - [Certificate](https://github.com/ysohaarsh/Certificate) · Final project for a web development certificate course: an HTML and CSS personal page.
-- [yonex-racket-price](https://github.com/ysohaarsh/yonex-racket-price) · Flipkart vs Amazon.in price comparison for 41 Yonex badminton rackets, with stackable bank offers and an effec
-- [Python-project-college](https://github.com/ysohaarsh/Python-project-college) · Restaurant management system with a Tkinter GUI, built as a college Python project.
 <!-- recent:end -->
 
 ### Tools I use
