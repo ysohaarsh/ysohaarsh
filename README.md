@@ -16,12 +16,12 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
-- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
 - [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
+- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
+- [3d-capability-showcase](https://github.com/ysohaarsh/3d-capability-showcase) · Six real-time WebGL demos (Three.js), each with its own interface design
+- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
 - [hospital_management_system](https://github.com/ysohaarsh/hospital_management_system) · Web-based hospital management system built with Node.js, Express, MySQL and EJS templates.
 - [cosmos-app-prototype](https://github.com/ysohaarsh/cosmos-app-prototype) · High-fidelity Cosmos app prototype generated autonomously by Antigravity (Google DeepMind), as a test of agent
-- [Certificate](https://github.com/ysohaarsh/Certificate) · Final project for a web development certificate course: an HTML and CSS personal page.
 <!-- recent:end -->
 
 ### Tools I use
