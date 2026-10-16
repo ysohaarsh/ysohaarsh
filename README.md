@@ -16,12 +16,12 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [ppe_detection](https://github.com/ysohaarsh/ppe_detection) · Real-time PPE detection (hardhats, masks, safety vests) with YOLO and OpenCV.
+- [poker_hand_detection](https://github.com/ysohaarsh/poker_hand_detection) · Real-time poker hand detection: recognizes playing cards on camera with YOLO and names the hand.
 - [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
+- [ppe_detection](https://github.com/ysohaarsh/ppe_detection) · Real-time PPE detection (hardhats, masks, safety vests) with YOLO and OpenCV.
 - [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
 - [3d-capability-showcase](https://github.com/ysohaarsh/3d-capability-showcase) · Six real-time WebGL demos (Three.js), each with its own interface design
 - [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
-- [hospital_management_system](https://github.com/ysohaarsh/hospital_management_system) · Web-based hospital management system built with Node.js, Express, MySQL and EJS templates.
 <!-- recent:end -->
 
 ### Tools I use
