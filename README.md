@@ -16,12 +16,12 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [object_detection_project](https://github.com/ysohaarsh/object_detection_project) · Car and people counter: counts cars in a video stream and people on an escalator in real time with YOLO and SO
+- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
 - [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
+- [object_detection_project](https://github.com/ysohaarsh/object_detection_project) · Car and people counter: counts cars in a video stream and people on an escalator in real time with YOLO and SO
 - [poker_hand_detection](https://github.com/ysohaarsh/poker_hand_detection) · Real-time poker hand detection: recognizes playing cards on camera with YOLO and names the hand.
 - [ppe_detection](https://github.com/ysohaarsh/ppe_detection) · Real-time PPE detection (hardhats, masks, safety vests) with YOLO and OpenCV.
 - [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
-- [3d-capability-showcase](https://github.com/ysohaarsh/3d-capability-showcase) · Six real-time WebGL demos (Three.js), each with its own interface design
 <!-- recent:end -->
 
 ### Tools I use
