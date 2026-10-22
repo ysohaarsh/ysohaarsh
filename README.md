@@ -16,12 +16,12 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
-- [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
-- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
-- [object_detection_project](https://github.com/ysohaarsh/object_detection_project) · Car and people counter: counts cars in a video stream and people on an escalator in real time with YOLO and SO
-- [poker_hand_detection](https://github.com/ysohaarsh/poker_hand_detection) · Real-time poker hand detection: recognizes playing cards on camera with YOLO and names the hand.
+- [bharat-pulse](https://github.com/ysohaarsh/bharat-pulse) · India situation monitor — disasters, earthquakes, AQI, MPs/MLAs and civic reports on a live map (fork of Pulse
 - [ppe_detection](https://github.com/ysohaarsh/ppe_detection) · Real-time PPE detection (hardhats, masks, safety vests) with YOLO and OpenCV.
+- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
+- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
+- [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
+- [object_detection_project](https://github.com/ysohaarsh/object_detection_project) · Car and people counter: counts cars in a video stream and people on an escalator in real time with YOLO and SO
 <!-- recent:end -->
 
 ### Tools I use
