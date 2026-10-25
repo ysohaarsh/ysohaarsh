@@ -16,11 +16,11 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [object_detection_project](https://github.com/ysohaarsh/object_detection_project) · Car and people counter: counts cars in a video stream and people on an escalator in real time with YOLO and SO
+- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
 - [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
+- [object_detection_project](https://github.com/ysohaarsh/object_detection_project) · Car and people counter: counts cars in a video stream and people on an escalator in real time with YOLO and SO
 - [bharat-pulse](https://github.com/ysohaarsh/bharat-pulse) · India situation monitor — disasters, earthquakes, AQI, MPs/MLAs and civic reports on a live map (fork of Pulse
 - [ppe_detection](https://github.com/ysohaarsh/ppe_detection) · Real-time PPE detection (hardhats, masks, safety vests) with YOLO and OpenCV.
-- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
 - [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
 <!-- recent:end -->
 
