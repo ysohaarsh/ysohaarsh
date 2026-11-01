@@ -16,12 +16,12 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
-- [hospital_management_system](https://github.com/ysohaarsh/hospital_management_system) · Web-based hospital management system built with Node.js, Express, MySQL and EJS templates.
-- [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
+- [poker_hand_detection](https://github.com/ysohaarsh/poker_hand_detection) · Real-time poker hand detection: recognizes playing cards on camera with YOLO and names the hand.
 - [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
+- [said-on-this-day](https://github.com/ysohaarsh/said-on-this-day) · 366-day calendar of dates characters say out loud in famous films and TV shows
+- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
 - [object_detection_project](https://github.com/ysohaarsh/object_detection_project) · Car and people counter: counts cars in a video stream and people on an escalator in real time with YOLO and SO
-- [bharat-pulse](https://github.com/ysohaarsh/bharat-pulse) · India situation monitor — disasters, earthquakes, AQI, MPs/MLAs and civic reports on a live map (fork of Pulse
+- [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
 <!-- recent:end -->
 
 ### Tools I use
