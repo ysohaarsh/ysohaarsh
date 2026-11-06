@@ -17,11 +17,11 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 
 <!-- recent:start -->
 - [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
+- [bharat-pulse](https://github.com/ysohaarsh/bharat-pulse) · India situation monitor — disasters, earthquakes, AQI, MPs/MLAs and civic reports on a live map (fork of Pulse
 - [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
 - [portfolio-2d-retro](https://github.com/ysohaarsh/portfolio-2d-retro) · Retro 2D pixel-style personal portfolio site.
 - [Python-project-college](https://github.com/ysohaarsh/Python-project-college) · Restaurant management system with a Tkinter GUI, built as a college Python project.
 - [said-on-this-day](https://github.com/ysohaarsh/said-on-this-day) · 366-day calendar of dates characters say out loud in famous films and TV shows
-- [ppe_detection](https://github.com/ysohaarsh/ppe_detection) · Real-time PPE detection (hardhats, masks, safety vests) with YOLO and OpenCV.
 <!-- recent:end -->
 
 ### Tools I use
