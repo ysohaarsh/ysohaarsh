@@ -17,9 +17,9 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 
 <!-- recent:start -->
 - [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
+- [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
 - [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
 - [bharat-pulse](https://github.com/ysohaarsh/bharat-pulse) · India situation monitor — disasters, earthquakes, AQI, MPs/MLAs and civic reports on a live map (fork of Pulse
-- [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
 - [portfolio-2d-retro](https://github.com/ysohaarsh/portfolio-2d-retro) · Retro 2D pixel-style personal portfolio site.
 - [Python-project-college](https://github.com/ysohaarsh/Python-project-college) · Restaurant management system with a Tkinter GUI, built as a college Python project.
 <!-- recent:end -->
