@@ -16,12 +16,12 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [3d-cell-tour](https://github.com/ysohaarsh/3d-cell-tour) · Interactive 3D model of a human cell, built entirely from code one organelle at a time (three.js, single HTML 
+- [world-cup-balls](https://github.com/ysohaarsh/world-cup-balls) · Every FIFA World Cup match ball from 1930 to 2026, rendered procedurally in WebGL
 - [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
+- [ring-site](https://github.com/ysohaarsh/ring-site) · One-screen personal site: a sentence as a spinning, squeezable, poppable ring of text. Static HTML, CSS and JS
+- [3d-cell-tour](https://github.com/ysohaarsh/3d-cell-tour) · Interactive 3D model of a human cell, built entirely from code one organelle at a time (three.js, single HTML 
 - [bharat-pulse](https://github.com/ysohaarsh/bharat-pulse) · India situation monitor — disasters, earthquakes, AQI, MPs/MLAs and civic reports on a live map (fork of Pulse
 - [pocketleaf-pip](https://github.com/ysohaarsh/pocketleaf-pip) · Pip & the Pocket Kingdom: an original pixel platformer inside a handheld-inspired web console (TypeScript, Can
-- [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
-- [portfolio-2d-retro](https://github.com/ysohaarsh/portfolio-2d-retro) · Retro 2D pixel-style personal portfolio site.
 <!-- recent:end -->
 
 ### Tools I use
