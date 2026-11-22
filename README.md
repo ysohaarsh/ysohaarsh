@@ -16,8 +16,8 @@ I build web apps and developer tools with TypeScript and Next.js, and computer-v
 ### Recently active
 
 <!-- recent:start -->
-- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
 - [pulse-world-monitor](https://github.com/ysohaarsh/pulse-world-monitor) · Real-time world events control room: 3D globe, live feed, AI briefs and watchlist alerts. Next.js 16 + Supabas
+- [gitglance](https://github.com/ysohaarsh/gitglance) · Understand any git repository at a glance: activity stats, health checks, changelogs and AI summaries from you
 - [world-cup-balls](https://github.com/ysohaarsh/world-cup-balls) · Every FIFA World Cup match ball from 1930 to 2026, rendered procedurally in WebGL
 - [ring-site](https://github.com/ysohaarsh/ring-site) · One-screen personal site: a sentence as a spinning, squeezable, poppable ring of text. Static HTML, CSS and JS
 - [3d-cell-tour](https://github.com/ysohaarsh/3d-cell-tour) · Interactive 3D model of a human cell, built entirely from code one organelle at a time (three.js, single HTML 
